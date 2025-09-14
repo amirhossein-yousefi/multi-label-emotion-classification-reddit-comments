@@ -1,0 +1,6 @@
+transformers>=4.42.0
+datasets>=2.19.0
+accelerate>=0.33.0
+scikit-learn>=1.3.0
+evaluate>=0.4.2
+peft>=0.11.1
