@@ -1,0 +1,8 @@
+# sagemaker/requirements.txt
+# Extra dependencies installed into the Hugging Face DLC at job start.
+# Avoid pinning 'transformers' here to prevent version conflicts with the DLC.
+datasets>=2.14
+evaluate>=0.4
+scikit-learn>=1.2
+pandas>=1.5
+numpy>=1.23
