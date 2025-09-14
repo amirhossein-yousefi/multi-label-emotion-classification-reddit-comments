@@ -2,10 +2,6 @@
 
 > Fine‑tune transformer models on **GoEmotions** (58k Reddit comments, 27 emotions + neutral) with a clean, reproducible multi‑label pipeline: robust preprocessing, threshold tuning, strong metrics, and a tiny inference CLI.
 
-<p align="center">
-  <img alt="Emotions word cloud" src="https://user-images.githubusercontent.com/0000000/placeholder.png" width="0" />
-</p>
-
 **Highlights**
 
 - 📦 **Batteries‑included pipeline**: dataset loading, tokenization, training, evaluation, threshold tuning, and inference CLI.
@@ -19,10 +15,10 @@
 
 ## 🚀 Model on Hugging Face
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Seq2Seq--Translation-yellow.svg)](https://huggingface.co/Amirhossein75/Sequence2Sequence-Transformer-Translation-Opus-MT)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Multi--Label--Emotion--Classification-yellow.svg)](https://huggingface.co/Amirhossein75/multi-label-emotion-classification-reddit-comments-roberta)
 
 <p align="center">
-  <a href="https://huggingface.co/Amirhossein75/Sequence2Sequence-Transformer-Translation-Opus-MT">
+  <a href="https://huggingface.co/Amirhossein75/multi-label-emotion-classification-reddit-comments-roberta">
     <img src="https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-blueviolet?style=for-the-badge" alt="Hugging Face Repo">
   </a>
 </p>
